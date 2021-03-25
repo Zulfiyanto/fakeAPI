@@ -66,8 +66,8 @@
     }
   ],
   "users": [{
-  'id':1,
-  'username':'Fikar',
-  'password':'1234'}],
+  "id":1,
+  "username":"Fikar",
+  "password":"1234"}],
   "transactions": []
 }
